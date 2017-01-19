@@ -7,5 +7,6 @@
 /sample/
 /tests/
 */.idea/
-*/WEB-INF/
+*/WEB-INF/*
+!*/WEB-INF/web.xml
 *.class
