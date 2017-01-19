@@ -1,0 +1,10 @@
+*.DS_Store
+/ROOT/
+/examples/
+/host-manager/
+/manager/
+/docs/
+/sample/
+/tests/
+*/.idea/
+*/WEB-INF/
